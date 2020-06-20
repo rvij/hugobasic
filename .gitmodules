@@ -1,0 +1,3 @@
+[submodule "hugofirst/themes/HugoMDL"]
+	path = hugofirst/themes/HugoMDL
+	url = git@github.com:jchatkinson/HugoMDL.git
